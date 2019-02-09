@@ -1,0 +1,83 @@
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.exe
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.pdb
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.xml
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Login.resources
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Resources.resources
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.exe
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.xml
+c:\users\mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.pdb
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form3.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Home.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form5.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form4.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form6.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form7.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form8.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\SMS.mdf
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\SMS_log.ldf
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form10.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form9.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form11.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form12.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form13.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form14.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form15.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form16.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form17.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form18.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form19.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form20.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.exe.manifest
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.application
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.exe.manifest
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.application
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form21.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\Connection.mdf
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\Connection_log.ldf
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form22.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\SMS.sdf
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form23.resources
+C:\Users\Mohit\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form24.resources
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\School Management System\School Management System\bin\Debug\itextsharp.dll
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\School Management System\School Management System\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\School Management System\School Management System\bin\Debug\itextsharp.xtra.dll
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\School Management System\School Management System\bin\Debug\itextsharp.xml
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mohit\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form25.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\bin\Debug\School Management System.exe.config
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School Management System.exe
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School Management System.xml
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School Management System.pdb
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School Management System.vbprojResolveAssemblyReference.cache
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Login.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form10.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form11.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form12.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form13.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form14.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form15.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form16.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form17.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form18.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form19.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Home.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form20.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form21.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form22.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form23.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form24.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form25.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form3.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form4.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form5.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form6.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form7.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form8.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Form9.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School_Management_System.Resources.resources
+D:\School Management System\New folder (2)\School Management System\School Management System\obj\x86\Debug\School Management System.vbproj.GenerateResource.Cache
